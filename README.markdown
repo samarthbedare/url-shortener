@@ -131,8 +131,12 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Samarth Narendra Bedare**  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/samarthbedare)  
+💻 [GitHub](https://github.com/samarthbedare)
+
+**Aditi Vaibhav Apte**  
+🔗 [LinkedIn](https://linkedin.com/in/aditiapte15)  
+💻 [GitHub](https://github.com/aditiapte15)
