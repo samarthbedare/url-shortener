@@ -3,9 +3,10 @@ FROM eclipse-temurin:21-jdk
 WORKDIR /app
 COPY . .
 
-# Add this line to fix the permission issue
+# Add execute permission to mvnw
 RUN chmod +x mvnw
 
 RUN ./mvnw clean package -DskipTests
 
-CMD ["java", "-jar", "$(ls target/*.jar | grep -v 'plain.jar')"]
+# Find the jar file in the target folder and run it
+CMD ["java", "-jar", "target/UrlShortener-0.0.1-SNAPSHOT.jar"]
