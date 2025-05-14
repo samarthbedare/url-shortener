@@ -39,7 +39,7 @@ public class UrlShortenerApplication {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000","http://url-shortener-frontend-gold.vercel.app","http://url-shortener-frontend-mvb4jzjhs-samarth-bedares-projects.vercel.app","https://url-shortener-frontend-samarth-bedares-projects.vercel.app") // React frontend origin
+                        .allowedOrigins("http://localhost:3000","https://url-shortener-frontend-gold.vercel.app/","https://url-shortener-frontend-mvb4jzjhs-samarth-bedares-projects.vercel.app","https://url-shortener-frontend-samarth-bedares-projects.vercel.app") // React frontend origin
                         .allowedMethods("GET", "POST")
                         .allowedHeaders("*");
             }
