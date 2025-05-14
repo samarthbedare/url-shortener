@@ -131,7 +131,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Samarth Narendra Bedare**  
 🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
