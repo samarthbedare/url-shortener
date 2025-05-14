@@ -136,3 +136,7 @@ This project is licensed under the MIT License.
 **Samarth Narendra Bedare**  
 🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
 💻 [GitHub](https://github.com/yourusername)
+
+**Aditi Vaibhav Apte**  
+🔗 [LinkedIn](https://linkedin.com/in/aditiapte15)  
+💻 [GitHub](https://github.com/aditiapte15)
