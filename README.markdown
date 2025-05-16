@@ -142,6 +142,3 @@ This project is licensed under the MIT License.
 **Aditi Vaibhav Apte**  
 🔗 [LinkedIn](https://linkedin.com/in/aditiapte15)  
 💻 [GitHub](https://github.com/aditiapte15)
-🔗 [LinkedIn](https://linkedin.com/in/samarthbedare)  
-💻 [GitHub](https://github.com/samarthbedare)
-
