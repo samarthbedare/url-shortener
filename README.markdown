@@ -2,6 +2,8 @@
 
 A full-stack URL Shortener built with **Java 21**, **Spring Boot 3.4.5**, **MongoDB**, and **React**. Easily shorten and redirect URLs with unique short codes.
 
+You can access the URL shortener at [https://url-shortener-frontend-gold.vercel.app/](https://url-shortener-frontend-gold.vercel.app/) website.
+
 ## 📦 Tech Stack
 
 - ⚙️ **Backend**: Spring Boot (Java 21, Maven)
@@ -143,6 +145,3 @@ This project is licensed under the MIT License.
 🔗 [LinkedIn](https://linkedin.com/in/samarthbedare)  
 💻 [GitHub](https://github.com/samarthbedare)
 
-**Aditi Vaibhav Apte**  
-🔗 [LinkedIn](https://linkedin.com/in/aditiapte15)  
-💻 [GitHub](https://github.com/aditiapte15)
